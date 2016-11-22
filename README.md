@@ -1,5 +1,5 @@
-# Firebase: Build a Real Time Web Chat App Codelab - Start code
+# Muslim Chat: Real Time Chat App for Android
 
-This folder contains the starting code for the [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+This App starts with [Firebase: Build a Real Time Web Chat App Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
 
-If you'd like to jump directly to the end and see the finished code head to the [web](../web) directory.
+Meanwhile, this app is further extended to utilize Webview of the android visual studio.
